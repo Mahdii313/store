@@ -11,6 +11,10 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        IranSans: "IranSans",
+        IranNastaliq: "IranNastaliq",
+      },
     },
   },
   plugins: [],
